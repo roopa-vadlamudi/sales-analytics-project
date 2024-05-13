@@ -29,4 +29,4 @@ Top products
 Net sales %
 Last Year Net Sales
 Top markets
-[sales report AtliQ.pdf](https://github.com/roopa-vadlamudi/sales-analytics-project/files/15298719/sales.report.AtliQ.pdf)
+
