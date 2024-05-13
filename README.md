@@ -28,17 +28,5 @@ Top 10 customers
 Top products
 Net sales %
 Last Year Net Sales
-Top markets[top_10_products.pdf](https://github.com/roopa-vadlamudi/sales-analytics-project/files/15298784/top_10_products.pdf)
-[top_10_countries.pdf](https://github.com/roopa-vadlamudi/sales-analytics-project/files/15298783/top_10_countries.pdf)
-[top_5_countries.pdf](https://github.com/roopa-vadlamudi/sales-analytics-project/files/15298781/top_5_countries.pdf)
-[sales_market_report.pdf](https://github.com/roopa-vadlamudi/sales-analytics-project/files/15298780/sales_market_report.pdf)
-[new_products.pdf](https://github.com/roopa-vadlamudi/sales-analytics-project/files/15298779/new_products.pdf)
-[more_solutions_reports.pdf](https://github.com/roopa-vadlamudi/sales-analytics-project/files/15298778/more_solutions_reports.pdf)
-[division_report.pdf](https://github.com/roopa-vadlamudi/sales-analytics-project/files/15298777/division_report.pdf)
-[customer performance report.pdf](https://github.com/roopa-vadlamudi/sales-analytics-project/files/15298776/customer.performance.report.pdf)
-[conclusion.pdf](https://github.com/roopa-vadlamudi/sales-analytics-project/files/15298775/conclusion.pdf)
-[steps in reporting.pdf](https://github.com/roopa-vadlamudi/sales-analytics-project/files/15298767/steps.in.reporting.pdf)
-[sales_customer_report.pdf](https://github.com/roopa-vadlamudi/sales-analytics-project/files/15298756/sales_customer_report.pdf)
-[market performance report.pdf](https://github.com/roopa-vadlamudi/sales-analytics-project/files/15298754/market.performance.report.pdf)
-[top_10_products.pdf](https://github.com/roopa-vadlamudi/sales-analytics-project/files/15298747/top_10_products.pdf)
+Top markets
 [sales report AtliQ.pdf](https://github.com/roopa-vadlamudi/sales-analytics-project/files/15298719/sales.report.AtliQ.pdf)
